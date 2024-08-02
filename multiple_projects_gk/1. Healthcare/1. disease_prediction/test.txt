@@ -1,0 +1,1 @@
+Implemented mode as an ensemble technique for selected classifiers.
